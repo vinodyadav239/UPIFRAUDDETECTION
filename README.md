@@ -38,9 +38,6 @@ This project focuses on detecting fraudulent transactions within the Unified Pay
    Open your web browser and navigate to `http://127.0.0.1:5000/`. Here, you can upload transaction data, view analysis results, and monitor potential fraudulent activities.
 
    
-Play the video below: ⬇️
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7bQwA4Ntvqk/0.jpg)](https://www.youtube.com/watch?v=7bQwA4Ntvqk)
 
 
 ## How It Works
